@@ -5,5 +5,7 @@ This is an aproach to classify images from CIFAR-10 dataset with Radial Bases Ac
 ## Instalation
 
 This repository is tested on Python 3.6.
+
 With pip: install the "requirements.txt"
+
 Download the Dataset from University of Toronto site https://www.cs.toronto.edu/~kriz/cifar.html
